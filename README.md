@@ -30,5 +30,7 @@
 
 Функціонал Gitlab та інші завдання - виконувались разом.
 
+Посилання на GitHub Pages: https://develop2den.github.io/Forkio/
+
 
 
